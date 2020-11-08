@@ -1,0 +1,23 @@
+.avatar
+{
+  min-width: 200px;
+  padding-top: 12px;
+}
+
+.left_div
+{
+  float:left;
+  min-width: 200px;
+  margin-right: 20px;
+}
+
+.right_div
+{
+  float:left;
+
+}
+
+.ava
+{
+  border-radius: 200px;
+}
